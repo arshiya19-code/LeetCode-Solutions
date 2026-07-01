@@ -7,6 +7,7 @@ A collection of my LeetCode solutions in Python, documenting my journey in Data 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -32,6 +33,7 @@ A collection of my LeetCode solutions in Python, documenting my journey in Data 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
