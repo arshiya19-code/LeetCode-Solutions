@@ -61,6 +61,7 @@ A collection of my LeetCode solutions in Python, documenting my journey in Data 
 | ------- |
 | [0020-valid-parentheses](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -73,4 +74,12 @@ A collection of my LeetCode solutions in Python, documenting my journey in Data 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
