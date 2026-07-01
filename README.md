@@ -59,6 +59,7 @@ A collection of my LeetCode solutions in Python, documenting my journey in Data 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -68,4 +69,8 @@ A collection of my LeetCode solutions in Python, documenting my journey in Data 
 | [0042-trapping-rain-water](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
