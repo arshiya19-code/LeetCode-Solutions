@@ -12,6 +12,7 @@ A collection of my LeetCode solutions in Python, documenting my journey in Data 
 | [0152-maximum-product-subarray](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
