@@ -82,4 +82,20 @@ A collection of my LeetCode solutions in Python, documenting my journey in Data 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
