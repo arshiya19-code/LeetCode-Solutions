@@ -16,6 +16,7 @@ A collection of my LeetCode solutions in Python, documenting my journey in Data 
 | [0350-intersection-of-two-arrays-ii](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -57,8 +58,10 @@ A collection of my LeetCode solutions in Python, documenting my journey in Data 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
