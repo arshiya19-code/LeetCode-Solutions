@@ -8,11 +8,13 @@ A collection of my LeetCode solutions in Python, documenting my journey in Data 
 | ------- |
 | [0001-two-sum](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0152-maximum-product-subarray](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -20,5 +22,14 @@ A collection of my LeetCode solutions in Python, documenting my journey in Data 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arshiya19-code/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
